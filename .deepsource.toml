@@ -5,7 +5,7 @@ name = "go"
 enabled = true
 
   [analyzers.meta]
-  import_root = "github.com/krakendio/httpcache"
+  import_root = "github.com/davron112/httpcache"
 
 [[transformers]]
 name = "gofmt"
